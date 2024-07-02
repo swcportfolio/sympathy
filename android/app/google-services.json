@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "84964955640",
+    "project_id": "symathy-f5cdf",
+    "storage_bucket": "symathy-f5cdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84964955640:android:3109f15a7ca6d51d1b320d",
+        "android_client_info": {
+          "package_name": "com.onwards.sympathy_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84964955640-b0231stqrh77s3gdlhd1f27k31ojcn79.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.onwards.sympathy_app",
+            "certificate_hash": "32c53da6fe5f9b1665b72ba287c349169de727dd"
+          }
+        },
+        {
+          "client_id": "84964955640-43r67d43cca9pvft2iqt126m3362sno4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFPVyC4YwP_HTyP-AFHNqIrDpmeIQjZrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84964955640-43r67d43cca9pvft2iqt126m3362sno4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
