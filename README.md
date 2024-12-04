@@ -1,20 +1,18 @@
-# sympathy_app
+# 리질리언스 강화 심리 상담 채팅앱
 
-A new Flutter application.
+헬스케어 장비를 활용한 시민 맞춤형 건강케어 서비스 
 
-## Getting Started
+건겅검진 결과 확인용으로 얼굴인식및 인증 기반으로 회원관리 및 데이터 관리
 
-This project is a starting point for a Flutter application.
+## 주요 화면
+- 회원가입 화면: 내담자가 회원가입 할 수 있는 화면이다.
+- 예약화면: 로그인을 하게되면 상담사와 상담할 예약할 시간을 정하게 된다.
+- 채팅 리스트 화면: 상담사와 채팅방이 생성이 되면 보여주는 화면이다.
+- 채팅 방 화면: 상담사와 1:1로 심리 상담 채팅이 가능한 화면이다.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 사용된 기술 스택
+- 언어: dart
+- 통신: dio
+- 내부 DB: sqlite
 
 
-- Flutter SDK version: 2.5.0
-- 작성자: psw
